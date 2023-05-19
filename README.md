@@ -1,1 +1,1 @@
-Build a basic recipe website and here HTML skills will be demonstrated. I am a billionaire
+Build a basic recipe website and here HTML skills will be demonstrated.
